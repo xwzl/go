@@ -19,5 +19,8 @@ type golang interface{}
 func main() {
 
 	println("Hello World!" + name)
+	for {
+
+	}
 
 }

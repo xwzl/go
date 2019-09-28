@@ -1,3 +1,6 @@
+
+http://tour.studygolang.com/list
+
 # 基本命令
     
     // 运行
